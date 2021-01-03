@@ -1,0 +1,1 @@
+EmailManager.sendMail('bahadircanyildiz@gmail.com', 'Trailhead Tutorial', '123 body');
